@@ -13,8 +13,7 @@ CS major / Math minor at the University of Georgia. Currently building any proje
 
 <!-- Your newest or most interesting project. One short paragraph, then the link.
      Replace this block whenever something newer lands. -->
-
-▶️ Nothing ATM
+Nothing ATM
 
 ---
 

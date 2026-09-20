@@ -33,8 +33,6 @@ CS major / Math minor at the University of Georgia. Currently building any proje
 
 # 👇 ALL PROJECTS BY FIELD
 
----
-
 ## 🤖 AI & Machine Learning
 
 <!-- Group by theme. Repeat the featured ones here if they fit — Zara does. -->

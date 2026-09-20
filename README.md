@@ -1,16 +1,65 @@
-## Hi there 👋
+# Yo, I'm Anto 
 
-<!--
-**DevFrancisA/DevFrancisA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- One or two lines on who you are and what you build. Keep it concrete.
+     Example shape: what you're studying, what you build, what you're working toward. -->
 
-Here are some ideas to get you started:
+CS major / Math minor at the University of Georgia. Currently building any projects that will challenge me and help me grow as a developer. Most of what's here started as a question I wanted answered.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [LinkedIn](https://linkedin.com/in/anto-francis-csmajor) · ✉️ [Email](mailto:antojason25@gmail.com) <!-- add X / site / blog if you want -->
+
+---
+
+## 🆕 Currently building
+
+<!-- Your newest or most interesting project. One short paragraph, then the link.
+     Replace this block whenever something newer lands. -->
+
+**[PROJECT NAME]** — [one sentence on what problem it solves and who for.]
+
+▶️ Nothing ATM
+
+---
+
+## ⭐ Featured projects
+
+<!-- 3–4 max. The ones you'd actually want someone to open first. -->
+🐕 **[dog-armor](https://github.com/DogArmor-Devs/dog-armor)** — DogArmor is an intelligent web app that recommends the perfect collar, harness, and leash combo for your dog utilizing visual, behavioral, and environmental information while staying under your budget.
+
+🗺️ **[australian-public-toilets-sql](https://github.com/DevFrancisA/australian-public-toilets-sql)** — An interactive version of the australia public toilets map. SQL analytics over a 25,563-row government dataset, with an interactive map of every facility. The filter feature is especially useful, wouldn't want to have an emergency, rush to the nearest public restroom, then realize it's not open right now... 
+
+📈 **[equity-signal-backtest](https://github.com/DevFrancisA/equity-signal-backtest)** — An end-to-end machine learning backtest for daily equity trading signals, built from scratch to learn how systematic strategies are researched and evaluated. It pulls historical market data, engineers features, trains a classifier to predict next-day direction, and backtests a probability-thresholded strategy against buy-and-hold.
+
+---
+### ALL PROJECTS
+
+## 🤖 AI & Machine Learning
+
+<!-- Group by theme. Repeat the featured ones here if they fit — Zara does. -->
+
+🔍 **[review-topic-embeddings](https://github.com/DevFrancisA/review-topic-embeddings)** — [ONE LINE]
+
+🧠 **[REPO](https://github.com/DevFrancisA/REPO)** — [ONE LINE]
+
+---
+
+## 📊 Data & SQL
+
+🗺️ **[australian-public-toilets-sql](https://github.com/DevFrancisA/australian-public-toilets-sql)** — [ONE LINE]
+
+---
+
+## 📈 Quantitative Finance
+
+📉 **[ma-crossover-backtest](https://github.com/DevFrancisA/ma-crossover-backtest)** — Trend-following strategy built from scratch and tested against buy-and-hold on five years of daily prices.
+
+📈 **[equity-signal-backtest](https://github.com/DevFrancisA/equity-signal-backtest)** — The same trading problem rebuilt as a prediction task, using a random forest on engineered price features.
+
+---
+
+## 🌐 Web & Full-Stack
+
+🐕 **[dog-armor](https://github.com/DogArmor-Devs/dog-armor)** — [ONE LINE]
+
+---
+
+<!-- Optional: a short "what I'm learning" or "reach out" line at the end. -->

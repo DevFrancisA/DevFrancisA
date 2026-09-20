@@ -55,6 +55,4 @@ CS major / Math minor at the University of Georgia. Currently building any proje
 
 🐕 **[dog-armor](https://github.com/DogArmor-Devs/dog-armor)** — DogArmor is an intelligent web app that recommends the perfect collar, harness, and leash combo for your dog utilizing visual, behavioral, and environmental information while staying under your budget.
 
----
-
 <!-- Optional: a short "what I'm learning" or "reach out" line at the end. -->

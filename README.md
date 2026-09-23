@@ -13,7 +13,7 @@ CS major / Math minor at the University of Georgia. Currently building any proje
 
 <!-- Your newest or most interesting project. One short paragraph, then the link.
      Replace this block whenever something newer lands. -->
-Nothing ATM
+😤 **[college-corpus-rag](https://github.com/DevFrancisA/college-corpus-rag)** - a rag application I'm going by aggregating all my college course content and querying using semantic embedding and other cool techniques 
 
 ---
 

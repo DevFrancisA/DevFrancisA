@@ -13,7 +13,7 @@ CS major / Math minor at the University of Georgia. Currently building any proje
 
 <!-- Your newest or most interesting project. One short paragraph, then the link.
      Replace this block whenever something newer lands. -->
-😤 **[college-corpus-rag](https://github.com/DevFrancisA/college-corpus-rag)** - a rag application I'm going by aggregating all my college course content and querying using semantic embedding and other cool techniques 
+😤 **[college-corpus-rag](https://github.com/DevFrancisA/college-corpus-rag)** - I'll aggregate all my college course content and build a RAG allowing querying using hybrid search. Will implement various rag strategies to improve accuracy and quality of responses. Eventually will change the domain to something more complex to better test the RAGs capabilities.
 
 ---
 

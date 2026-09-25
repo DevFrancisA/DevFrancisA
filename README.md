@@ -3,7 +3,7 @@
 <!-- One or two lines on who you are and what you build. Keep it concrete.
      Example shape: what you're studying, what you build, what you're working toward. -->
 
-CS major / Math minor at the University of Georgia. Currently building any projects that will challenge me and help me grow as a developer. Most of what's here started as a question I wanted answered.
+CS major / Math minor at the University of Georgia. Currently building any projects that will help me grow as a developer or would benefit me / other people. 
 
 🔗 [LinkedIn](https://linkedin.com/in/anto-francis-csmajor) · ✉️ [Email](mailto:antojason25@gmail.com) <!-- add X / site / blog if you want -->
 

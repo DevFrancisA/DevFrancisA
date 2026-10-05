@@ -22,9 +22,9 @@ CS major / Math minor at the University of Georgia. Currently building any proje
 <!-- 3–4 max. The ones you'd actually want someone to open first. -->
 🐕 **[dog-armor](https://github.com/DogArmor-Devs/dog-armor)** — DogArmor is an intelligent web app that recommends the perfect collar, harness, and leash combo for your dog utilizing visual, behavioral, and environmental information while staying under your budget.
 
-🗺️ **[australian-public-toilets-sql](https://github.com/DevFrancisA/australian-public-toilets-sql)** — An interactive version of the australia public toilets map. SQL analytics over a 25,563-row government dataset, with an interactive map of every facility. The filter feature is especially useful, wouldn't want to have an emergency, rush to the nearest public restroom, then realize it's not open right now... 
+🔍 **[diffsense](https://github.com/DevFrancisA/diffsense)** — A code review assistant that looks up the related code in your repo before judging a pull request, so it catches what a diff alone hides. Built with TypeScript, Next.js, pgvector, and the OpenAI API.
 
-📈 **[equity-signal-backtest](https://github.com/DevFrancisA/equity-signal-backtest)** — Machine learning backtest for daily equity trading signals, built from scratch to learn how systematic strategies are researched and evaluated. It pulls historical market data, engineers features, trains a classifier to predict next-day direction, and backtests a probability-thresholded strategy against buy-and-hold.
+🗺️ **[australian-public-toilets-sql](https://github.com/DevFrancisA/australian-public-toilets-sql)** — An interactive version of the australia public toilets map. SQL analytics over a 25,563-row government dataset, with an interactive map of every facility. The filter feature is especially useful, wouldn't want to have an emergency, rush to the nearest public restroom, then realize it's not open right now... 
 
 ---
 

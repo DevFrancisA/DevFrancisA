@@ -34,9 +34,11 @@ CS major / Math minor at the University of Georgia. Currently building any proje
 
 <!-- Group by theme. Repeat the featured ones here if they fit — Zara does. -->
 
-🔍 **[review-topic-embeddings](https://github.com/DevFrancisA/review-topic-embeddings)** — Semantic analysis of e-commerce product reviews using text embeddings. The pipeline embeds raw review text, visualizes the semantic structure of the corpus, assigns each review to a topic without any labeled training data, and serves nearest-neighbor review lookup through a vector database.
+📝 **[review-topic-embeddings](https://github.com/DevFrancisA/review-topic-embeddings)** — Semantic analysis of e-commerce product reviews using text embeddings. The pipeline embeds raw review text, visualizes the semantic structure of the corpus, assigns each review to a topic without any labeled training data, and serves nearest-neighbor review lookup through a vector database.
 
 📈 **[equity-signal-backtest](https://github.com/DevFrancisA/equity-signal-backtest)** — The same trading problem rebuilt as a prediction task, using a random forest on engineered price features.
+
+🔍 **[diffsense](https://github.com/DevFrancisA/diffsense)** — A code review assistant that looks up the related code in your repo before judging a pull request, so it catches what a diff alone hides. Built with TypeScript, Next.js, pgvector, and the OpenAI API.
 
 ---
 

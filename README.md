@@ -40,7 +40,7 @@ CS major / Math minor at the University of Georgia. Currently building any proje
 
 🔍 **[diffsense](https://github.com/DevFrancisA/diffsense)** — A code review assistant that looks up the related code in your repo before judging a pull request, so it catches what a diff alone hides. Built with TypeScript, Next.js, pgvector, and the OpenAI API.
 
-🔥 **[production-rag](https://github.com/DevFrancisA/production-rag)** - A question-answering system for your PDFs that cites the exact page behind every claim. It combines vector search with BM25 keyword search, reranks the results with a cross-encoder, and declines to answer when no source is relevant. An evaluation suite measures retrieval accuracy, hallucination rate, and latency. Built with FastAPI, Qdrant, PostgreSQL, Inngest, and the OpenAI API.
+🔥 **[research-paper-rag](https://github.com/DevFrancisA/production-rag)** - A question-answering system for your PDFs that cites the exact page behind every claim. It combines vector search with BM25 keyword search, reranks the results with a cross-encoder, and declines to answer when no source is relevant. An evaluation suite measures retrieval accuracy, hallucination rate, and latency. Built with FastAPI, Qdrant, PostgreSQL, Inngest, and the OpenAI API.
 
 ---
 

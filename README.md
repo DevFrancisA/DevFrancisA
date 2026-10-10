@@ -3,59 +3,26 @@
 <!-- One or two lines on who you are and what you build. Keep it concrete.
      Example shape: what you're studying, what you build, what you're working toward. -->
 
-## Anto Francis
-CS major / Math minor at the University of Georgia. 
-Currently building projects that would either optimize my daily workflows or involve ML / DL concepts I want to learn.
+### Anto Francis
 
-🔗 [LinkedIn](https://linkedin.com/in/anto-francis-csmajor) · ✉️ [Email](mailto:antojason25@gmail.com) <!-- add X / site / blog if you want -->
+CS @ UGA
+- Math minor / Certificates in AI and Data Science
+  
+Software Engineer @ V3RT3X Solutions
 
----
+Currently building projects that either optimize my daily workflows or involve ML / DL concepts I want to learn.
 
-## 🆕 Currently building
+🔗 [LinkedIn](https://linkedin.com/in/anto-francis-csmajor)   ·  ✉️ [Email](mailto:antojason25@gmail.com) <!-- add X / site / blog if you want -->
 
-<!-- Your newest or most interesting project. One short paragraph, then the link.
-     Replace this block whenever something newer lands. -->
-**[college-corpus-rag](https://github.com/DevFrancisA/college-corpus-rag)** - I'll aggregate all my college course content and build a RAG allowing querying using hybrid search. Will implement various rag strategies to improve accuracy and quality of responses. Eventually will change the domain to something more complex to better test the RAGs capabilities.
+--- 
 
----
-
-## ⭐ Featured projects
-
-<!-- 3–4 max. The ones you'd actually want someone to open first. -->
-**[dog-armor](https://github.com/DogArmor-Devs/dog-armor)** — DogArmor is an intelligent web app that recommends the perfect collar, harness, and leash combo for your dog utilizing visual, behavioral, and environmental information while staying under your budget.
-
-**[diffsense](https://github.com/DevFrancisA/diffsense)** — A code review assistant that looks up the related code in your repo before judging a pull request, so it catches what a diff alone hides. Built with TypeScript, Next.js, pgvector, and the OpenAI API.
-
-**[australian-public-toilets-sql](https://github.com/DevFrancisA/australian-public-toilets-sql)** — An interactive version of the australia public toilets map. SQL analytics over a 25,563-row government dataset, with an interactive map of every facility. The filter feature is especially useful, wouldn't want to have an emergency, rush to the nearest public restroom, then realize it's not open right now... 
-
----
-
-# 👇 ALL PROJECTS BY FIELD
-
-## 🤖 AI & Machine Learning
-
-<!-- Group by theme. Repeat the featured ones here if they fit — Zara does. -->
-
-**[review-topic-embeddings](https://github.com/DevFrancisA/review-topic-embeddings)** — Semantic analysis of e-commerce product reviews using text embeddings. The pipeline embeds raw review text, visualizes the semantic structure of the corpus, assigns each review to a topic without any labeled training data, and serves nearest-neighbor review lookup through a vector database.
-
-**[equity-signal-backtest](https://github.com/DevFrancisA/equity-signal-backtest)** — The same trading problem rebuilt as a prediction task, using a random forest on engineered price features.
-
-**[diffsense](https://github.com/DevFrancisA/diffsense)** — A code review assistant that looks up the related code in your repo before judging a pull request, so it catches what a diff alone hides. Built with TypeScript, Next.js, pgvector, and the OpenAI API.
-
-**[research-paper-rag](https://github.com/DevFrancisA/production-rag)** - A question-answering system for your PDFs that cites the exact page behind every claim. It combines vector search with BM25 keyword search, reranks the results with a cross-encoder, and declines to answer when no source is relevant. An evaluation suite measures retrieval accuracy, hallucination rate, and latency. Built with FastAPI, Qdrant, PostgreSQL, Inngest, and the OpenAI API.
-
----
-
-## 📊 Data & SQL
-
-**[australian-public-toilets-sql](https://github.com/DevFrancisA/australian-public-toilets-sql)** — An interactive version of the australia public toilets map. SQL analytics over a 25,563-row government dataset, with an interactive map of every facility. The filter feature is especially useful, wouldn't want to have an emergency, rush to the nearest public restroom, then realize it's not open right now... 
-
-**[ma-crossover-backtest](https://github.com/DevFrancisA/ma-crossover-backtest)** — Trend-following strategy built from scratch and tested against buy-and-hold on five years of daily prices.
-
----
-
-## 🌐 Web & Full-Stack
-
-**[dog-armor](https://github.com/DogArmor-Devs/dog-armor)** — DogArmor is an intelligent web app that recommends the perfect collar, harness, and leash combo for your dog utilizing visual, behavioral, and environmental information while staying under your budget.
-
-<!-- Optional: a short "what I'm learning" or "reach out" line at the end. -->
+| Project | Description | Status |
+| ------------- |------------- | ------------- |
+| **[college-corpus-rag](https://github.com/DevFrancisA/college-corpus-rag)** | TBD | In Progress |
+| **[dog-armor](https://github.com/DogArmor-Devs/dog-armor)** | Intelligent web app that recommends dog gear using dog behavior and anatomy. | Inactive |
+| **[diffsense](https://github.com/DevFrancisA/diffsense)** | Code review web app that examines the context around pull request diff to identify issues the diff alone may hide. | Active |
+| **[australian-public-toilets-sql](https://github.com/DevFrancisA/australian-public-toilets-sql)** | Interactive Australian Public Toilets map | Active |
+| **[review-topic-embeddings](https://github.com/DevFrancisA/review-topic-embeddings)** | Semantic analysis of e-commerce reviews using embeddings, unsupervised topic assignment, visualization, and vector-based nearest-neighbor search. | Active |
+| **[equity-signal-backtest](https://github.com/DevFrancisA/equity-signal-backtest)** | Machine-learning powered strategy to predict market signals on the S&P 500. | Active |
+| **[research-paper-rag](https://github.com/DevFrancisA/production-rag)** | Thorough RAG system for research paper PDFs. | Active |
+| **[ma-crossover-backtest](https://github.com/DevFrancisA/ma-crossover-backtest)** | Moving average crossover strategy tested against buy-and-hold strategy on 5 years of S&P 500 data. | Active |

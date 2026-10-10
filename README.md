@@ -1,8 +1,9 @@
-# Yo, I'm Anto 
+
 
 <!-- One or two lines on who you are and what you build. Keep it concrete.
      Example shape: what you're studying, what you build, what you're working toward. -->
 
+## Anto Francis
 CS major / Math minor at the University of Georgia. 
 Currently building projects that would either optimize my daily workflows or involve ML / DL concepts I want to learn.
 

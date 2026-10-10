@@ -12,8 +12,6 @@ Software Engineer @ V3RT3X Solutions
 
 Currently building projects that either optimize my daily workflows or involve ML / DL concepts I want to learn.
 
-🔗 [LinkedIn](https://linkedin.com/in/anto-francis-csmajor)   ·  ✉️ [Email](mailto:antojason25@gmail.com) <!-- add X / site / blog if you want -->
-
 --- 
 
 | Project | Description | Status |

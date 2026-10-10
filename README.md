@@ -1,7 +1,6 @@
+<img width="1200" height="674" alt="future" src="https://github.com/user-attachments/assets/07c40407-0a36-4ec1-a29b-7e3dda0f3114" />
 
-
-<!-- One or two lines on who you are and what you build. Keep it concrete.
-     Example shape: what you're studying, what you build, what you're working toward. -->
+---
 
 ### Anto Francis
 

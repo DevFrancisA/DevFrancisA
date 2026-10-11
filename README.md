@@ -1,4 +1,4 @@
-<img src="./future.gif" alt="Pixel-art cyberpunk city" width="100%">
+<img src="./future.png" alt="Pixel-art cyberpunk city" width="100%">
 
 ---
 

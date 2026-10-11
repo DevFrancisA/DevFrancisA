@@ -16,7 +16,7 @@ Currently building projects that either optimize my daily workflows or involve M
 | Project | Description | Status |
 | ------------- |------------- | ------------- |
 | **college-corpus-rag** | TBD | In Progress |
-| **[LiftLab](https://github.com/DevFrancisA/LiftLab)** | Uplift-targeting dashboard: find the audiences an ad actually persuades | Active |
+| **[LiftLab](https://github.com/DevFrancisA/LiftLab)** | Ad recommendation dashboard that compares different targeting strategies to help you decide where you should invest your money based off your audience. | Active |
 | **[AdsRank](https://github.com/DevFrancisA/AdsRank)** | Finds and ranks ads based on how likely someone is to click them. | Active |
 | **[releasewatch](https://github.com/DevFrancisA/releasewatch)** | Tracks software updates and checks that everything still works after release. | Active |
 | **[payplan](https://github.com/DevFrancisA/payplan)** | Shows payment schedules and total costs before trying a simulated checkout. | Active |

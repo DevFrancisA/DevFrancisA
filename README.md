@@ -1,5 +1,4 @@
-<img src="https://github.com/user-attachments/assets/07c40407-0a36-4ec1-a29b-7e3dda0f3114" alt="Pixel-art cyberpunk city" width="100%">
----
+<img src="./assets/future.gif" alt="Pixel-art cyberpunk city" width="100%">---
 
 ### Anto Francis
 

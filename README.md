@@ -15,9 +15,9 @@ Currently building projects that either optimize my daily workflows or involve M
 
 | Project | Description | Status |
 | ------------- |------------- | ------------- |
-| **[college-corpus-rag](https://github.com/DevFrancisA/college-corpus-rag)** | TBD | In Progress |
-| **[AdsRank](https://github.com/DevFrancisA/AdsRank)** | Three-stage CTR ranking stack on Criteo click logs: two-tower retrieval with a FAISS index, a DeepFM ranker, and an ONNX Runtime C++ serving harness. | Active |
-| **[releasewatch](https://github.com/DevFrancisA/releasewatch)** | Deployment dashboard that ingests CI webhooks, runs post-deploy health checks, and tracks rollbacks. | Active |
+| **[AdsRank](https://github.com/DevFrancisA/AdsRank)** | Finds and ranks ads based on how likely someone is to click them. | Active |
+| **[releasewatch](https://github.com/DevFrancisA/releasewatch)** | Tracks software updates and checks that everything still works after release. | Active |
+| **[payplan](https://github.com/DevFrancisA/payplan)** | Shows payment schedules and total costs before trying a simulated checkout. | Active |
 | **[payplan](https://github.com/DevFrancisA/payplan)** | Payment-plan simulator that shows every installment and total cost up front, with an idempotent sandbox checkout. | Active |
 | **[dog-armor](https://github.com/DogArmor-Devs/dog-armor)** | Intelligent web app that recommends dog gear using dog behavior and anatomy. | Inactive |
 | **[diffsense](https://github.com/DevFrancisA/diffsense)** | Code review web app that examines the context around pull request diff to identify issues the diff alone may hide. | Active |

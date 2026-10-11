@@ -16,7 +16,7 @@ Currently building projects that either optimize my daily workflows or involve M
 | Project | Description | Status |
 | ------------- |------------- | ------------- |
 | **college-corpus-rag** | TBD | In Progress |
-| **[LiftLab](https://github.com/DevFrancisA/LiftLab)** | Ad recommendation dashboard that compares 3 targeting strategies: an uplift model, two-model baseline, and random targeting with confidence intervals, so you can decide where your ad spend should go. | Active |
+| **[LiftLab](https://github.com/DevFrancisA/LiftLab)** | Ad rec dashboard that compares 3 targetting strats to help decide where ad spend should go. | Active |
 | **[AdsRank](https://github.com/DevFrancisA/AdsRank)** | Finds and ranks ads based on how likely someone is to click them. | Active |
 | **[releasewatch](https://github.com/DevFrancisA/releasewatch)** | Tracks software updates and checks that everything still works after release. | Active |
 | **[payplan](https://github.com/DevFrancisA/payplan)** | Shows payment schedules and total costs before trying a simulated checkout. | Active |

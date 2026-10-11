@@ -15,6 +15,7 @@ Currently building projects that either optimize my daily workflows or involve M
 
 | Project | Description | Status |
 | ------------- |------------- | ------------- |
+| **[college-corpus-rag]** | TBD | Active |
 | **[AdsRank](https://github.com/DevFrancisA/AdsRank)** | Finds and ranks ads based on how likely someone is to click them. | Active |
 | **[releasewatch](https://github.com/DevFrancisA/releasewatch)** | Tracks software updates and checks that everything still works after release. | Active |
 | **[payplan](https://github.com/DevFrancisA/payplan)** | Shows payment schedules and total costs before trying a simulated checkout. | Active |

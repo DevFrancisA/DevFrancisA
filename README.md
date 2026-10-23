@@ -11,6 +11,7 @@ Software Engineer @ V3RT3X Solutions
 
 Currently building projects that either optimize my daily workflows or involve ML / DL concepts I want to learn.
 
+Personal Website: https://antofrancis.me/
 --- 
 
 | Project | Description | Status |

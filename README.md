@@ -6,8 +6,6 @@
 
 CS @ UGA
 - Math minor / Certificates in AI and Data Science
-  
-Software Engineer @ V3RT3X Solutions
 
 Currently building projects that bridge the gap between ML/DL and Robotics.
 

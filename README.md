@@ -15,5 +15,6 @@ Personal Website: https://antofrancis.me/
 
 | Project | Description | Status |
 | ------------- |------------- | ------------- |
+| **[swarm-lab](https://github.com/DevFrancisA/swarmlab-v2)** | A neuroevolution project showcasing a swarm of agents attempting to play a simple game. | WIP |
 | **[dog-armor](https://github.com/DogArmor-Devs/dog-armor)** | Intelligent web app that recommends dog gear using dog behavior and anatomy. | Active |
 | **[equity-signal-backtest](https://github.com/DevFrancisA/equity-signal-backtest)** | Machine-learning powered strategy to predict market signals on the S&P 500. | Active |
